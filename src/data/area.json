@@ -2085,6 +2085,173 @@
     ]
   },
   {
+    "pinyin": "shanghai",
+    "name": "上海",
+    "provinceName": "上海市",
+    "provinceShortName": "上海",
+    "confirmedCount": 277,
+    "suspectedCount": 166,
+    "curedCount": 30,
+    "deadCount": 1,
+    "comment": "新增治愈5，治愈数据统一归属上海公卫临床中心，暂无具体分区",
+    "locationId": 310000,
+    "cities": [
+      {
+        "cityName": "外地来沪人员",
+        "confirmedCount": 93,
+        "suspectedCount": 0,
+        "curedCount": 14,
+        "deadCount": 1,
+        "locationId": -1,
+        "fullCityName": "外地来沪人员"
+      },
+      {
+        "cityName": "浦东新区",
+        "confirmedCount": 52,
+        "suspectedCount": 0,
+        "curedCount": 6,
+        "deadCount": 0,
+        "locationId": 310115,
+        "fullCityName": "浦东新区"
+      },
+      {
+        "cityName": "宝山区",
+        "confirmedCount": 16,
+        "suspectedCount": 0,
+        "curedCount": 0,
+        "deadCount": 0,
+        "locationId": 310113,
+        "fullCityName": "宝山区"
+      },
+      {
+        "cityName": "徐汇区",
+        "confirmedCount": 16,
+        "suspectedCount": 0,
+        "curedCount": 0,
+        "deadCount": 0,
+        "locationId": 310104,
+        "fullCityName": "徐汇区"
+      },
+      {
+        "cityName": "静安区",
+        "confirmedCount": 15,
+        "suspectedCount": 0,
+        "curedCount": 2,
+        "deadCount": 0,
+        "locationId": 310106,
+        "fullCityName": "静安区"
+      },
+      {
+        "cityName": "松江区",
+        "confirmedCount": 13,
+        "suspectedCount": 0,
+        "curedCount": 0,
+        "deadCount": 0,
+        "locationId": 310117,
+        "fullCityName": "松江区"
+      },
+      {
+        "cityName": "闵行区",
+        "confirmedCount": 12,
+        "suspectedCount": 0,
+        "curedCount": 1,
+        "deadCount": 0,
+        "locationId": 310112,
+        "fullCityName": "闵行区"
+      },
+      {
+        "cityName": "长宁区",
+        "confirmedCount": 11,
+        "suspectedCount": 0,
+        "curedCount": 0,
+        "deadCount": 0,
+        "locationId": 310105,
+        "fullCityName": "长宁区"
+      },
+      {
+        "cityName": "奉贤区",
+        "confirmedCount": 9,
+        "suspectedCount": 0,
+        "curedCount": 0,
+        "deadCount": 0,
+        "locationId": 310120,
+        "fullCityName": "奉贤区"
+      },
+      {
+        "cityName": "虹口区",
+        "confirmedCount": 7,
+        "suspectedCount": 0,
+        "curedCount": 0,
+        "deadCount": 0,
+        "locationId": 310109,
+        "fullCityName": "虹口区"
+      },
+      {
+        "cityName": "杨浦区",
+        "confirmedCount": 7,
+        "suspectedCount": 0,
+        "curedCount": 0,
+        "deadCount": 0,
+        "locationId": 310110,
+        "fullCityName": "杨浦区"
+      },
+      {
+        "cityName": "普陀区",
+        "confirmedCount": 7,
+        "suspectedCount": 0,
+        "curedCount": 0,
+        "deadCount": 0,
+        "locationId": 310107,
+        "fullCityName": "普陀区"
+      },
+      {
+        "cityName": "青浦区",
+        "confirmedCount": 5,
+        "suspectedCount": 0,
+        "curedCount": 1,
+        "deadCount": 0,
+        "locationId": 310118,
+        "fullCityName": "青浦区"
+      },
+      {
+        "cityName": "黄浦区",
+        "confirmedCount": 5,
+        "suspectedCount": 0,
+        "curedCount": 1,
+        "deadCount": 0,
+        "locationId": 310101,
+        "fullCityName": "黄浦区"
+      },
+      {
+        "cityName": "嘉定区",
+        "confirmedCount": 5,
+        "suspectedCount": 0,
+        "curedCount": 0,
+        "deadCount": 0,
+        "locationId": 310114,
+        "fullCityName": "嘉定区"
+      },
+      {
+        "cityName": "金山区",
+        "confirmedCount": 2,
+        "suspectedCount": 0,
+        "curedCount": 0,
+        "deadCount": 0,
+        "locationId": 310116,
+        "fullCityName": "金山区"
+      },
+      {
+        "cityName": "崇明区",
+        "confirmedCount": 2,
+        "suspectedCount": 0,
+        "curedCount": 0,
+        "deadCount": 0,
+        "locationId": 310151,
+        "fullCityName": "崇明区"
+      }
+    ]
+  },
+  {
     "pinyin": "heilongjiang",
     "name": "黑龙江",
     "provinceName": "黑龙江省",
@@ -2203,173 +2370,6 @@
         "deadCount": 0,
         "locationId": 231100,
         "fullCityName": "黑河市"
-      }
-    ]
-  },
-  {
-    "pinyin": "shanghai",
-    "name": "上海",
-    "provinceName": "上海市",
-    "provinceShortName": "上海",
-    "confirmedCount": 269,
-    "suspectedCount": 166,
-    "curedCount": 30,
-    "deadCount": 1,
-    "comment": "新增治愈5，治愈数据统一归属上海公卫临床中心，暂无具体分区",
-    "locationId": 310000,
-    "cities": [
-      {
-        "cityName": "外地来沪人员",
-        "confirmedCount": 92,
-        "suspectedCount": 0,
-        "curedCount": 14,
-        "deadCount": 1,
-        "locationId": -1,
-        "fullCityName": "外地来沪人员"
-      },
-      {
-        "cityName": "浦东新区",
-        "confirmedCount": 50,
-        "suspectedCount": 0,
-        "curedCount": 6,
-        "deadCount": 0,
-        "locationId": 310115,
-        "fullCityName": "浦东新区"
-      },
-      {
-        "cityName": "宝山区",
-        "confirmedCount": 16,
-        "suspectedCount": 0,
-        "curedCount": 0,
-        "deadCount": 0,
-        "locationId": 310113,
-        "fullCityName": "宝山区"
-      },
-      {
-        "cityName": "徐汇区",
-        "confirmedCount": 15,
-        "suspectedCount": 0,
-        "curedCount": 0,
-        "deadCount": 0,
-        "locationId": 310104,
-        "fullCityName": "徐汇区"
-      },
-      {
-        "cityName": "静安区",
-        "confirmedCount": 14,
-        "suspectedCount": 0,
-        "curedCount": 2,
-        "deadCount": 0,
-        "locationId": 310106,
-        "fullCityName": "静安区"
-      },
-      {
-        "cityName": "闵行区",
-        "confirmedCount": 12,
-        "suspectedCount": 0,
-        "curedCount": 1,
-        "deadCount": 0,
-        "locationId": 310112,
-        "fullCityName": "闵行区"
-      },
-      {
-        "cityName": "长宁区",
-        "confirmedCount": 11,
-        "suspectedCount": 0,
-        "curedCount": 0,
-        "deadCount": 0,
-        "locationId": 310105,
-        "fullCityName": "长宁区"
-      },
-      {
-        "cityName": "松江区",
-        "confirmedCount": 10,
-        "suspectedCount": 0,
-        "curedCount": 0,
-        "deadCount": 0,
-        "locationId": 310117,
-        "fullCityName": "松江区"
-      },
-      {
-        "cityName": "奉贤区",
-        "confirmedCount": 9,
-        "suspectedCount": 0,
-        "curedCount": 0,
-        "deadCount": 0,
-        "locationId": 310120,
-        "fullCityName": "奉贤区"
-      },
-      {
-        "cityName": "虹口区",
-        "confirmedCount": 7,
-        "suspectedCount": 0,
-        "curedCount": 0,
-        "deadCount": 0,
-        "locationId": 310109,
-        "fullCityName": "虹口区"
-      },
-      {
-        "cityName": "杨浦区",
-        "confirmedCount": 7,
-        "suspectedCount": 0,
-        "curedCount": 0,
-        "deadCount": 0,
-        "locationId": 310110,
-        "fullCityName": "杨浦区"
-      },
-      {
-        "cityName": "普陀区",
-        "confirmedCount": 7,
-        "suspectedCount": 0,
-        "curedCount": 0,
-        "deadCount": 0,
-        "locationId": 310107,
-        "fullCityName": "普陀区"
-      },
-      {
-        "cityName": "青浦区",
-        "confirmedCount": 5,
-        "suspectedCount": 0,
-        "curedCount": 1,
-        "deadCount": 0,
-        "locationId": 310118,
-        "fullCityName": "青浦区"
-      },
-      {
-        "cityName": "黄浦区",
-        "confirmedCount": 5,
-        "suspectedCount": 0,
-        "curedCount": 1,
-        "deadCount": 0,
-        "locationId": 310101,
-        "fullCityName": "黄浦区"
-      },
-      {
-        "cityName": "嘉定区",
-        "confirmedCount": 5,
-        "suspectedCount": 0,
-        "curedCount": 0,
-        "deadCount": 0,
-        "locationId": 310114,
-        "fullCityName": "嘉定区"
-      },
-      {
-        "cityName": "金山区",
-        "confirmedCount": 2,
-        "suspectedCount": 0,
-        "curedCount": 0,
-        "deadCount": 0,
-        "locationId": 310116,
-        "fullCityName": "金山区"
-      },
-      {
-        "cityName": "崇明区",
-        "confirmedCount": 2,
-        "suspectedCount": 0,
-        "curedCount": 0,
-        "deadCount": 0,
-        "locationId": 310151,
-        "fullCityName": "崇明区"
       }
     ]
   },
@@ -3006,7 +3006,7 @@
     "name": "海南",
     "provinceName": "海南省",
     "provinceShortName": "海南",
-    "confirmedCount": 114,
+    "confirmedCount": 115,
     "suspectedCount": 0,
     "curedCount": 8,
     "deadCount": 2,
@@ -3032,6 +3032,15 @@
         "fullCityName": "海口市"
       },
       {
+        "cityName": "万宁",
+        "confirmedCount": 12,
+        "suspectedCount": 0,
+        "curedCount": 0,
+        "deadCount": 0,
+        "locationId": 469006,
+        "fullCityName": "万宁市"
+      },
+      {
         "cityName": "儋州",
         "confirmedCount": 11,
         "suspectedCount": 0,
@@ -3039,15 +3048,6 @@
         "deadCount": 0,
         "locationId": 460400,
         "fullCityName": "儋州市"
-      },
-      {
-        "cityName": "万宁",
-        "confirmedCount": 11,
-        "suspectedCount": 0,
-        "curedCount": 0,
-        "deadCount": 0,
-        "locationId": 469006,
-        "fullCityName": "万宁市"
       },
       {
         "cityName": "澄迈",

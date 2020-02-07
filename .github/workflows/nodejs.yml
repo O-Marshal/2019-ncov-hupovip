@@ -24,5 +24,9 @@ jobs:
         node-version: 10.x
     - name: npm install
       run: npm install
-    - name: npm run push
-      run: npm run push
+    - name: npm run async
+        run: npm run async
+    - name: npm run build
+        run: npm run build
+    - name: npm run deploy
+      run: npm run deploy
