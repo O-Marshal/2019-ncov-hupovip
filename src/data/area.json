@@ -6,7 +6,7 @@
     "provinceShortName": "湖北",
     "confirmedCount": 22112,
     "suspectedCount": 0,
-    "curedCount": 818,
+    "curedCount": 828,
     "deadCount": 618,
     "comment": "",
     "locationId": 420000,
@@ -69,7 +69,7 @@
         "cityName": "黄石",
         "confirmedCount": 635,
         "suspectedCount": 0,
-        "curedCount": 31,
+        "curedCount": 39,
         "deadCount": 2,
         "locationId": 420200,
         "fullCityName": "黄石市"
@@ -141,7 +141,7 @@
         "cityName": "恩施州",
         "confirmedCount": 157,
         "suspectedCount": 0,
-        "curedCount": 10,
+        "curedCount": 12,
         "deadCount": 0,
         "locationId": 422800,
         "fullCityName": "恩施土家族苗族自治州"
@@ -173,7 +173,7 @@
     "provinceShortName": "广东",
     "confirmedCount": 1018,
     "suspectedCount": 0,
-    "curedCount": 69,
+    "curedCount": 75,
     "deadCount": 1,
     "comment": "",
     "locationId": 440000,
@@ -227,7 +227,7 @@
         "cityName": "中山",
         "confirmedCount": 46,
         "suspectedCount": 0,
-        "curedCount": 4,
+        "curedCount": 6,
         "deadCount": 0,
         "locationId": 442000,
         "fullCityName": "中山市"
@@ -281,7 +281,7 @@
         "cityName": "梅州",
         "confirmedCount": 12,
         "suspectedCount": 0,
-        "curedCount": 0,
+        "curedCount": 4,
         "deadCount": 0,
         "locationId": 441400,
         "fullCityName": "梅州市"
