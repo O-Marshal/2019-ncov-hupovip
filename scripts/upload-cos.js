@@ -17,7 +17,6 @@ function checkUploaded() {
     store.getBucket({Bucket: '2019-ncov-1300334035', Region: 'ap-chengdu'}, (err, data) => {
       if (err) return reject(err)
       uploads = data.Contents.map(item => item.Key)
-      console.log(uploads)
       return resolve(uploads)
     });
   })
