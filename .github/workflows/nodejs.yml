@@ -23,6 +23,6 @@ jobs:
       with:
         node-version: 10.x
     - name: npm install
-      run: npm ci
+      run: npm install
     - name: npm run push
       run: npm run push
