@@ -1,4 +1,4 @@
-name: Node.js Deploy To Tencent COS
+name: HupoVip Deploy To Tencent COS
 
 on:
   push:
