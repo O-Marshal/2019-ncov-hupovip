@@ -1,0 +1,18 @@
+name: AutoCrawlUrl
+
+on:
+  push:
+    barches:
+      - master
+  schedule:
+  - cron:  '*/15 * * * *'
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Run a one-line script
+      run: curl http://ncov.cms.2020.soiiy.cn/scheduled-crawl
