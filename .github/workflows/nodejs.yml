@@ -22,6 +22,8 @@ jobs:
       uses: actions/setup-node@v1
       with:
         node-version: 10.x
+    - name: Run a one-line script
+      run: curl http://ncov.cms.2020.soiiy.cn/scheduled-crawl
     - name: npm install
       run: npm install
     - name: npm run async
